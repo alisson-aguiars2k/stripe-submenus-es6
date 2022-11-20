@@ -17,4 +17,4 @@
 
 ![](./images/stripe-setup-es6.jpg)
 
-### [Striper Submenus ES6](https://alisson-aguiars2k.github.io/striper-submenus-es6/) 🔗
+### [Striper Submenus ES6](https://alisson-aguiars2k.github.io/stripe-submenus-es6/) 🔗
